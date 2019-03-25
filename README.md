@@ -1,3 +1,3 @@
 ## ProjectEulerSolutions 
 
-The first ten project euler questions solved in Java and JavaScript.
+The first ten Project Euler questions solved in Java and JavaScript.
